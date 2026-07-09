@@ -27,8 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

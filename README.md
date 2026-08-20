@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Ankitd0984/LeetCode-PractiseDSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
